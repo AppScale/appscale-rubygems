@@ -1,0 +1,2 @@
+?package(rubygems-appscale):needs="X11|text|vc|wm" section="Applications/see-menu-manual"\
+  title="rubygems-appscale" command="/usr/bin/rubygems-appscale"

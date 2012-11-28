@@ -1,0 +1,16 @@
+Package: rubygems-appscale
+Version: 1.3.7-2
+Architecture: amd64
+Maintainer: AppScale <packages@appscale.com>
+Installed-Size: 760
+Section: libs
+Priority: extra
+Homepage: http://rubygems.org/
+Description: package management framework for Ruby libraries/applications
+ This is a way to package Ruby libraries/applications for distribution.
+ RubyGems provides the ability to manage concurrent versions of libraries and
+ dependencies between those libraries. Using RubyGems, you can:
+   * download and install Ruby libraries easily
+   * not worry about libraries A and B depending on different versions of
+     library C
+   * easily remove libraries you no longer use
